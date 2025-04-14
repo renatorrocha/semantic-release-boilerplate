@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/renatorrocha/semantic-release-boilerplate/compare/v1.0.0...v1.0.1) (2025-04-14)
+
+
+### Bug Fixes
+
+* that will trigger a version update ([ed65569](https://github.com/renatorrocha/semantic-release-boilerplate/commit/ed655695bf9ea27cbb4a6430ede60a5d7f636512))
+
 # 1.0.0 (2025-04-14)
 
 
